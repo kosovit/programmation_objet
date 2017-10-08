@@ -1,0 +1,12 @@
+fr/ensma/ia/jeupersonnages/personnages/PersonnageHumain.class
+fr/ensma/ia/jeupersonnages/outils/ECouleur.class
+fr/ensma/ia/jeupersonnages/troupes/Troupe.class
+fr/ensma/ia/jeupersonnages/adresses/Adresse.class
+fr/ensma/ia/jeupersonnages/personnages/Guerrier.class
+fr/ensma/ia/jeupersonnages/personnages/Ouvrier.class
+fr/ensma/ia/jeupersonnages/outils/exceptions/TroupeVideException.class
+fr/ensma/ia/jeupersonnages/outils/exceptions/ECouleurException.class
+fr/ensma/ia/jeupersonnages/personnages/Personnage.class
+fr/ensma/ia/jeupersonnages/JeuPersonnages.class
+fr/ensma/ia/jeupersonnages/personnages/Dragon.class
+fr/ensma/ia/jeupersonnages/comportement/IDeplacable.class
