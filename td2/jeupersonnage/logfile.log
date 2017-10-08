@@ -1,0 +1,200 @@
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:21) - ==========Test ECouleur
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:23) - 3
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:26) - jaune
+ERROR | 2016-11-06 12:34:46 | [main] outils.ECouleur (ECouleur.java:64) - Valeur non attendue ...
+ERROR | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:30) - fr.ensma.ia.jeupersonnages.outils.ECouleur.getColor(ECouleur.java:65) ; Index sans correspondance ...
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:32) - le bloc Finally ...
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:36) - ==========Test Adresse
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:40) - Hutte numéro 12, Village1
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:41) - false
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:42) - true
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:43) - false
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:44) - true
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:45) - Hashcode : true
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:50) - ==========Test Ouvrier
+INFO  | 2016-11-06 12:34:46 | [Finalizer] adresses.Adresse (Adresse.java:133) - Destruction d'une instance d'Adresse ...
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:52) - Eddard Stark, bleu, 30.0, 10
+Hutte numéro 22, Winterfell
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:55) - true
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:59) - ==========Test Guerrier
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:61) - La Montagne, rouge, 25.0, 35
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:63) - true
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:66) - ==========Test Dragon
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:69) - Dragon, jaune, 58.0, 235
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:70) - true
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Guerrier (Guerrier.java:71) - Je me déplace ... 
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Ouvrier (Ouvrier.java:116) - AIIIIIEEEEEUUUUHHH ! Tu fais mal La Montagne... nivVie : 26.5
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Guerrier (Guerrier.java:101) - AIIIIIEEEEEUUUUHHH ! ... nivVie : 21.5
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Guerrier (Guerrier.java:102) - Bob L'eponge va se venger La Montagne !!!!
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:82) - ==========Test Troupe
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:88) - nb Perso : 4
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:89) - La troupe Tr01 :
+Eddard Stark, bleu, 26.5, 10
+Hutte numéro 22, Winterfell
+-----
+Tyrion Lannister, rouge, 3.0, 10
+Hutte numéro 13, Castral Roc
+-----
+La Montagne, rouge, 25.0, 35
+-----
+Dragon, jaune, 58.0, 235
+-----
+
+INFO  | 2016-11-06 12:34:46 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:90) - true
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me déplace ... 
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me déplace ... 
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Guerrier (Guerrier.java:71) - Je me déplace ... 
+INFO  | 2016-11-06 12:34:46 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:21) - ==========Test ECouleur
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:23) - 3
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:26) - jaune
+ERROR | 2016-11-06 13:00:53 | [main] outils.ECouleur (ECouleur.java:64) - Valeur non attendue ...
+ERROR | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:30) - fr.ensma.ia.jeupersonnages.outils.ECouleur.getColor(ECouleur.java:65) ; Index sans correspondance ...
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:32) - le bloc Finally ...
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:36) - ==========Test Adresse
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:40) - Hutte numéro 12, Village1
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:41) - false
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:42) - true
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:43) - false
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:44) - true
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:45) - Hashcode : true
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:50) - ==========Test Ouvrier
+INFO  | 2016-11-06 13:00:53 | [Finalizer] adresses.Adresse (Adresse.java:133) - Destruction d'une instance d'Adresse ...
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:52) - Eddard Stark, bleu, 30.0, 10
+Hutte numéro 22, Winterfell
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:55) - true
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:59) - ==========Test Guerrier
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:61) - La Montagne, rouge, 25.0, 35
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:63) - true
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:66) - ==========Test Dragon
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:69) - Dragon, jaune, 58.0, 235
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:70) - true
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Guerrier (Guerrier.java:71) - Je me déplace ... 
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Ouvrier (Ouvrier.java:116) - AIIIIIEEEEEUUUUHHH ! Tu fais mal La Montagne... nivVie : 26.5
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Guerrier (Guerrier.java:101) - AIIIIIEEEEEUUUUHHH ! ... nivVie : 21.5
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Guerrier (Guerrier.java:102) - Bob L'eponge va se venger La Montagne !!!!
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:82) - ==========Test Troupe
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:88) - nb Perso : 4
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:89) - La troupe Tr01 :
+Eddard Stark, bleu, 26.5, 10
+Hutte numéro 22, Winterfell
+-----
+Tyrion Lannister, rouge, 3.0, 10
+Hutte numéro 13, Castral Roc
+-----
+La Montagne, rouge, 25.0, 35
+-----
+Dragon, jaune, 58.0, 235
+-----
+
+INFO  | 2016-11-06 13:00:53 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:90) - true
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me déplace ... 
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me déplace ... 
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Guerrier (Guerrier.java:71) - Je me déplace ... 
+INFO  | 2016-11-06 13:00:53 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:21) - ==========Test ECouleur
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:23) - 3
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:26) - jaune
+ERROR | 2016-11-06 15:00:37 | [main] outils.ECouleur (ECouleur.java:64) - Valeur non attendue ...
+ERROR | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:30) - fr.ensma.ia.jeupersonnages.outils.ECouleur.getColor(ECouleur.java:65) ; Index sans correspondance ...
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:32) - le bloc Finally ...
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:36) - ==========Test Adresse
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:40) - Hutte numéro 12, Village1
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:41) - false
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:42) - true
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:43) - false
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:44) - true
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:45) - Hashcode : true
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:50) - ==========Test Ouvrier
+INFO  | 2016-11-06 15:00:37 | [Finalizer] adresses.Adresse (Adresse.java:133) - Destruction d'une instance d'Adresse ...
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:52) - Eddard Stark, bleu, 30.0, 10
+Hutte numéro 22, Winterfell
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:55) - true
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:59) - ==========Test Guerrier
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:61) - La Montagne, rouge, 25.0, 35
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:63) - true
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:66) - ==========Test Dragon
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:69) - Dragon, jaune, 58.0, 235
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:70) - true
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Guerrier (Guerrier.java:71) - Je me déplace ... 
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Ouvrier (Ouvrier.java:116) - AIIIIIEEEEEUUUUHHH ! Tu fais mal La Montagne... nivVie : 26.5
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Guerrier (Guerrier.java:101) - AIIIIIEEEEEUUUUHHH ! ... nivVie : 21.5
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Guerrier (Guerrier.java:102) - Bob L'eponge va se venger La Montagne !!!!
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:82) - ==========Test Troupe
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:88) - nb Perso : 4
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:89) - La troupe Tr01 :
+Eddard Stark, bleu, 26.5, 10
+Hutte numéro 22, Winterfell
+-----
+Tyrion Lannister, rouge, 3.0, 10
+Hutte numéro 13, Castral Roc
+-----
+La Montagne, rouge, 25.0, 35
+-----
+Dragon, jaune, 58.0, 235
+-----
+
+INFO  | 2016-11-06 15:00:37 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:90) - true
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me déplace ... 
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me déplace ... 
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Guerrier (Guerrier.java:71) - Je me déplace ... 
+INFO  | 2016-11-06 15:00:37 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:21) - ==========Test ECouleur
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:23) - 3
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:26) - jaune
+ERROR | 2016-11-06 18:10:27 | [main] outils.ECouleur (ECouleur.java:64) - Valeur non attendue ...
+ERROR | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:30) - fr.ensma.ia.jeupersonnages.outils.ECouleur.getColor(ECouleur.java:65) ; Index sans correspondance ...
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:32) - le bloc Finally ...
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:36) - ==========Test Adresse
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:40) - Hutte numï¿½ro 12, Village1
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:41) - false
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:42) - true
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:43) - false
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:44) - true
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:45) - Hashcode : true
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:50) - ==========Test Ouvrier
+INFO  | 2016-11-06 18:10:27 | [Finalizer] adresses.Adresse (Adresse.java:133) - Destruction d'une instance d'Adresse ...
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:52) - Eddard Stark, bleu, 30.0, 10
+Hutte numï¿½ro 22, Winterfell
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:55) - true
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:59) - ==========Test Guerrier
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:61) - La Montagne, rouge, 25.0, 35
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:63) - true
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:66) - ==========Test Dragon
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:69) - Dragon, jaune, 58.0, 235
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:70) - true
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Guerrier (Guerrier.java:71) - Je me dï¿½place ... 
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Ouvrier (Ouvrier.java:116) - AIIIIIEEEEEUUUUHHH ! Tu fais mal La Montagne... nivVie : 26.5
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Guerrier (Guerrier.java:89) - La Montagne dit : A l'attaque !!!!
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Guerrier (Guerrier.java:101) - AIIIIIEEEEEUUUUHHH ! ... nivVie : 21.5
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Guerrier (Guerrier.java:102) - Bob L'eponge va se venger La Montagne !!!!
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:82) - ==========Test Troupe
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:88) - nb Perso : 4
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:89) - La troupe Tr01 :
+Eddard Stark, bleu, 26.5, 10
+Hutte numï¿½ro 22, Winterfell
+-----
+Tyrion Lannister, rouge, 3.0, 10
+Hutte numï¿½ro 13, Castral Roc
+-----
+La Montagne, rouge, 25.0, 35
+-----
+Dragon, jaune, 58.0, 235
+-----
+
+INFO  | 2016-11-06 18:10:27 | [main] jeupersonnages.JeuPersonnages (JeuPersonnages.java:90) - true
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me dï¿½place ... 
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Ouvrier (Ouvrier.java:109) - Je me dï¿½place ... 
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Guerrier (Guerrier.java:71) - Je me dï¿½place ... 
+INFO  | 2016-11-06 18:10:27 | [main] personnages.Dragon (Dragon.java:55) - Je suis Vhagar et je vole !!!!
